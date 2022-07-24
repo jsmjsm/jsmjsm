@@ -1,5 +1,3 @@
-### Hi there, I'm 0xJasmine 👋
-
 <!--
 **jsmjsm/jsmjsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2 align="center">👋 Hello! I'm 0xJasmine.</h2>
+<p align="center">
+  <a href="https://news.jsmjsm.xyz">
+  Newsletter · 
+  </a>
+  <a href="https://twitter.com/0xon99">
+  Twitter
+  </a>
+</p>
 
 ![Metrics](/github-metrics.svg)
