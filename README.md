@@ -13,12 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- <h2 align="center">👋 Hello!</h2>
-
-<p align="center">
-<!--   <a href="https://news.jsmjsm.xyz"> Newsletter </a>
-  <a> | </a> -->
-  <a href="https://twitter.com/0xon99"> Twitter </a>
-</p> -->
-
 ![Metrics](/github-metrics.svg)
